@@ -4,7 +4,7 @@ This repository contains 3 YOLOv8 models, 2 of which are fine tuned further to e
 
 Default Model|Fine Tuned Model
 --|--
-<img src="video_demo/output/default_model.mp4" width="600" />|<img src="video_demo/output/fine_tuned2_model.mp4" />
+<img src="https://github.com/TheoJJF/Multi_Person_Tracking/blob/main/video_demo/output/default_model.mp4" width="600" />|<img src="https://github.com/TheoJJF/Multi_Person_Tracking/blob/main/video_demo/output/fine_tuned2_model.mp4" />
 
 ## 🚀 Getting Started
 
