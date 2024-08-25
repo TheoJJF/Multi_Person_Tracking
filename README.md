@@ -37,7 +37,7 @@ python3 src/setup/video_installer.py
 ## ⌨️ Running the script
 
 ```
-python3 tracker.py --input_video_path path/to/video --output_video_output path/to/output  
+python3 src/core/tracker.py --input_video_path path/to/video --output_video_output path/to/output  
 ```
 
 This is the bare minimum of arguments needed to run the script. Further adjustments can be made using the list of script arguments below.
