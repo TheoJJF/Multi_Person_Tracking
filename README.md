@@ -2,7 +2,9 @@
 
 This repository contains 3 YOLOv8 models, 2 of which are fine tuned further to enhance performace. Using the latest version of the popular "You Only Look Once" (YOLO) algorithm and non-max suppression, yielding highly accurate pedestrian tracking.
 
-![fine_tuned2_model](https://github.com/user-attachments/assets/b7f582cb-2186-4b7a-b1c1-13a584b09b6c)
+<center>
+![fine_tuned2_model](https://github.com/user-attachments/assets/b7f582cb-2186-4b7a-b1c1-13a584b09b6c =1920x1200)
+</center>
 
 Due to the nature
 
