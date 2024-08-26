@@ -14,4 +14,4 @@ os.chdir('video_demo')
 download_assets(VideoAssets.PEOPLE_WALKING)
 
 # Error with original file name, change file name to 'demo_vid.mp4'.
-os.rename('people-walking.mp4', 'demo_vid.mp4')
+os.rename('people-walking.mp4', 'sample.mp4')
