@@ -1,4 +1,4 @@
-# Multi_Person_Tracking
+# Multi-Person Tracking
 
 This repository contains 3 YOLOv8 models, 2 of which are fine tuned further to enhance performace. Using the latest version of the popular "You Only Look Once" (YOLO) algorithm and non-max suppression, yielding highly accurate pedestrian tracking.
 
