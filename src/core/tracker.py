@@ -6,7 +6,7 @@ import supervision as sv
 
 from collections import defaultdict, deque
 from ultralytics import YOLO
-from arg import *
+from arg import parseArg
 
 # ---------------------------------------------------------------------------
 
