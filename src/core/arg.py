@@ -1,6 +1,6 @@
 import argparse
 
-def parseArg() -> argparse.Namespace:
+def parse_arg() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description='Multi-Person Tracking'
     )
