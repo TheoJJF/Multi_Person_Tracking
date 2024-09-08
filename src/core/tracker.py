@@ -6,12 +6,12 @@ import supervision as sv
 
 from collections import defaultdict, deque
 from ultralytics import YOLO
-from arg import parseArg
+from arg import parse_arg
 
 # ---------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    arguments = parseArg()
+    arguments = parse_arg()
 
     # Storing video information:
     # - Width
